@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
   "expoServerPort": 19000,
-  "packagerPort": null,
-  "packagerPid": null,
+  "packagerPort": 19001,
+  "packagerPid": 18556,
   "expoServerNgrokUrl": "https://bw-u4f.anonymous.fbfactchecker.exp.direct",
   "packagerNgrokUrl": "https://packager.bw-u4f.anonymous.fbfactchecker.exp.direct",
-  "ngrokPid": 12576
+  "ngrokPid": 88
 }
